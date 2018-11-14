@@ -1,0 +1,2 @@
+# AbstractMethod
+Latihan1
